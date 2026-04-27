@@ -201,6 +201,12 @@ The frontend will start on port 5173 by default (http://localhost:5173).
 
 ---
 
+DOCKER
+
+<img width="869" height="201" alt="image" src="https://github.com/user-attachments/assets/7573feca-44a9-456c-b857-0feaf3d09e91" />
+
+
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
